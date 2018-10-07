@@ -2,7 +2,7 @@
 
 def loop_iterator(number_of_times)
   loop do
-    counter = number_of_times.to_i
+    counter = number_of_times
     counter
     puts "Welcome to Flatiron School's Web Development Course!"
     if counter >= 7
