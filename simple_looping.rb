@@ -20,7 +20,7 @@ def while_iterator(number_of_times)
   while number_of_times < 7
   puts "Welcome to Flatiron School's Web Development Course!"
 end
-puts 
+puts "Welcome to Flatiron School's Web Development Course!"
 end
 
 # def until_iterator(number_of_times)
