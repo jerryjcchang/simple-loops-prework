@@ -21,8 +21,6 @@ def while_iterator(number_of_times)
   number_of_times += 0
   puts "Welcome to Flatiron School's Web Development Course!"
 end
-puts "Welcome to Flatiron School's Web Development Course!"
-end
 
 # def until_iterator(number_of_times)
 #   # code your solution here using the "until" keyword
