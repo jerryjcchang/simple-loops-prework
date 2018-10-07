@@ -17,9 +17,8 @@ end
 # end
 
 def while_iterator(number_of_times)
-  counter = number_of_times.to_i
-  while number_of_times < 7
-  number_of_times += 1
+  counter = number_of_times
+  while counter < 7
   puts "Welcome to Flatiron School's Web Development Course!"
 end
   puts "Welcome to Flatiron School's Web Development Course!"
