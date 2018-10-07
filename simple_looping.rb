@@ -25,7 +25,7 @@ end
 end
 
 def until_iterator(number_of_times)
-    counter = number_of_times
+    counter = 0
     until counter == number_of_times
     puts "Welcome to Flatiron School's Web Development Course!"
     end
